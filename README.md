@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Ilya758/Ilya758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Illia!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on RSClone (survival single/multiplayer game)!
+- 🌱 I’m currently learning React / Styled Components / Phaser / Canvas
+- 💬 Ask me about Typescript!
+- 📫 How to reach me: linkedin (link is below the text) / discord (Ilya758)
+- ⚡ Fun fact: Do you know your brain is using only 10% of overall power?? Idk until tomorrow:)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [LINKEDIN](https://www.linkedin.com/in/illia-skaryna/)
+## [CODERSRANK](https://profile.codersrank.io/user/ilya758/)
+
+### Wish y'all success!
