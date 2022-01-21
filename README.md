@@ -10,5 +10,6 @@
 
 ## [LINKEDIN](https://www.linkedin.com/in/illia-skaryna/)
 ## [CODERSRANK](https://profile.codersrank.io/user/ilya758/)
+## [CV && Deploy :fire: ](https://ilya758.github.io/rsschool-cv/)
 
 ### Wish y'all success!
