@@ -3,7 +3,7 @@
 ## My name is Illia!
 
 <!-- - 🔭 I’m currently working on Le (survival single/multiplayer game)! -->
-- 🌱 I’m currently learning Angular / Redux
+- 🌱 I’m currently learning Angular / NodeJS!
 - 💬 Ask me about Typescript!
 - 📫 How to reach me: linkedin (link is below the text) / discord (Ilya758)
 - ⚡ Fun fact: Do you know your brain is using only 10% of overall power?? Idk until tomorrow:)
