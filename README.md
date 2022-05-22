@@ -3,13 +3,12 @@
 ## My name is Illia!
 
 <!-- - 🔭 I’m currently working on Le (survival single/multiplayer game)! -->
-- 🌱 I’m spending my spare time with Angular / RxJS / NgRx!
+- 🌱 I’m spending my spare time with Node.js / Electron!
 - 💬 Ask me about React/Typescript!
 - 📫 How to reach me: linkedin (link is below the text) / discord (Ilya758)
 - ⚡ Fun fact: Do you know your brain is using only 10% of overall power?? Idk until tomorrow:)
 
 ### [LINKEDIN](https://www.linkedin.com/in/illia-skaryna/)
-### [CODERSRANK](https://profile.codersrank.io/user/ilya758/)
 ### [CV && Deploy :fire: ](https://ilya758.github.io/rsschool-cv/)
 
 ## STATS
